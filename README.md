@@ -1,2 +1,25 @@
-# BNGT-Website
-BNGT Website — A modern, responsive web platform featuring clean UI/UX, smooth animations, and performance-focused design.
+# BNGT Website 🌐
+
+BNGT is a modern and responsive web platform built with a strong focus on clean UI/UX, performance, and scalability.  
+This project follows modern web development practices to deliver a smooth and reliable user experience across all devices.
+
+## 🚀 Features
+- Responsive and mobile-friendly layout
+- Modern and minimal UI design
+- Smooth animations and interactions
+- Optimized performance
+- Structured and maintainable codebase
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+
+## 🔒 License & Usage
+This project is **not open source**.  
+All rights are reserved. Copying, modifying, or distributing this code without permission is strictly prohibited.
+
+## 📷 Preview
+_Add screenshots or demo images here_
